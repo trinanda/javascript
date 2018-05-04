@@ -11,6 +11,7 @@ function kelulusanMahasiswa(){
   //   console.log('Buruk')
   // }
 
+  // cara penulisan if else yang kedua, tapi sebaik nya gunakan cara yang pertama
   if(nilai>=7)console.log('Hebat')
   else console.log('Cukup')
 
