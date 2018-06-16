@@ -9,6 +9,5 @@ function arrayShift(){
   return 'sisa buah ' + grocerry_list
 }
 
-
 a = arrayShift()
 console.log(a);
