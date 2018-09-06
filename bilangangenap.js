@@ -11,7 +11,7 @@ function mencariBilanganGenap() {
 
 console.log(mencariBilanganGenap());
 
-// mencari bilangan ganjil
+// Tugas mencari bilangan ganjil
 function mencariBilanganGanjil(){
   var tampungGanjil = []
   for(i=1; i<=30; i++){
