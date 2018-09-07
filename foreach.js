@@ -1,4 +1,4 @@
-// forEach adalah "for" yang biasanya di kususkan untuk array
+// forEach mirip dengan perulangan for, namun forEach membutuhkan sebuah array untuk melakukan perulangan
 function belajarForEeach(){
   dataArray = ['tomato', 'banana', 'potato', 'mango', 'orange']
   dataArray.forEach(function(item, index, array){
