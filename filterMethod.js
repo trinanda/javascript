@@ -1,5 +1,9 @@
 /*
 ---------------------------------------------------------------------------
+method filter berfungsi untuk menyaring array dengan kondisi tertentu
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
 menyaring array dengan kodisi yang di inginkan menggunakan "for"
 // arr = [1,2,3,4,5]
 // arrGanjjil = []
