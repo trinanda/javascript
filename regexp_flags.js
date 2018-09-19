@@ -1,3 +1,4 @@
+// flags "i" berfungsi untuk membuat pencarian kata menjadi case-insensitive
 function belajarRegexpFlags(){
   let dataHuruf = 'abcdefghijklmnopqrstuvwxyz';
 
