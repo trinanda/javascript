@@ -1,3 +1,4 @@
+// shift berfungsi untuk menghapus element paling awal pada array
 function manipulationArrayWithShift(){
   var tumbuhan = ['Manggis', 'Jeruk', 'Nanas', 'Pisang']
 

@@ -1,3 +1,4 @@
+// push berfungsi untuk menyisipkan element di index paling akhir pada array
 function manipulationArrayWithPush(){
   var kucing = ['Lucky', 'Gofy', 'Kitty']
   console.log(kucing)

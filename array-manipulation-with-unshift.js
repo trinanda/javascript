@@ -1,3 +1,4 @@
+// unsift berfungsi untuk menyisipkan element di paling awal atau index 0
 function manipulationArrayWithUnshift(){
   var buku = ['Belajar Otodidak Flask', 'Pemograman Python dan Implementasi', 'Mudah Belajar Python']
   console.log(buku)
